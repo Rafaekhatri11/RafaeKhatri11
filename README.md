@@ -2,11 +2,12 @@
 
 **Rafaekhatri11/RafaeKhatri11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...# 👋 Hi, I'm Rafae Khatri
 
+<!-->
 **AI SaaS Engineer | Full-Stack JavaScript Architect**
 *Building scalable, AI-powered products from MVP to cloud-native enterprise systems.*
 
@@ -73,4 +74,3 @@ I'm currently available for freelance projects, long-term collaborations, or jus
 - **Email:** rafaekhatri11@gmail.com
 
 *Interested in building something great? Let’s discuss your project goals and create a clear roadmap.*
-
