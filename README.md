@@ -17,7 +17,7 @@
 
 With **5+ years** of experience in modern web development, I help startups and growing businesses turn complex ideas into production-ready SaaS products. I specialize in combining **Generative AI** with robust cloud architecture to build reliable, fast, and scalable applications.
 
-My expertise spans the entire development lifecycle—from rapid prototyping (using Bubble or Next.js) to deploying cost-optimized serverless infrastructure on AWS.
+My expertise spans the entire development lifecycle—from rapid prototyping (Next.js) to deploying cost-optimized serverless infrastructure on AWS.
 
 ---
 
@@ -42,7 +42,7 @@ My expertise spans the entire development lifecycle—from rapid prototyping (us
 `Docker` `Terraform` `Serverless Framework` `AWS CDK` `GitHub Actions` `CI/CD`
 
 #### **No-Code & Tools**
-`Bubble` `Webflow` `Figma`
+ `Webflow` `Figma`
 
 ---
 
@@ -50,7 +50,7 @@ My expertise spans the entire development lifecycle—from rapid prototyping (us
 
 - **🚀 Full-Stack SaaS:** End-to-end web applications using React, Next.js, and AWS.
 - **🤖 AI-Powered Solutions:** Custom dashboards, intelligent chatbots, and automation agents.
-- **⚡ Rapid MVPs:** Fast, functional prototypes using Bubble or Next.js to validate ideas quickly.
+- **⚡ Rapid MVPs:** Fast, functional prototypes using Next.js to validate ideas quickly.
 - **☁️ Cloud Architecture:** Scalable serverless infrastructure designed for performance and cost-efficiency.
 - **🎨 Performance Optimization:** Frontend revamps focused on speed, UX, and maintainability.
 
